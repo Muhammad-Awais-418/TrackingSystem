@@ -7,7 +7,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.Manifest;
 import android.content.Intent;
 import android.os.Bundle;
-import android.provider.ContactsContract;
 import android.widget.Toast;
 
 import com.firebase.ui.auth.AuthUI;
